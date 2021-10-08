@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=Account()
+comment10.params=
+comment10.target=void\ updateTotalBalance()
+comment11.params=amount
+comment11.target=void\ buyBonds(double)
+comment12.params=
+comment12.target=double\ getTotalBalance()
+comment2.params=amount
+comment2.target=void\ addToPortfolio(double)
+comment3.params=sellPrice
+comment3.target=void\ removeFromPortfolio(double)
+comment4.params=
+comment4.target=double\ getPortfolio()
+comment5.params=
+comment5.target=void\ setPortfolioZero()
+comment6.params=cash
+comment6.target=void\ setCash(double)
+comment7.params=amount
+comment7.target=void\ Deposit(double)
+comment8.params=stock
+comment8.target=void\ buyStock(Stocks)
+comment9.params=
+comment9.target=double\ getCash()
+numComments=13

@@ -1,0 +1,16 @@
+This program is designed to simulate the stock market within a fictional world.
+
+The program will start by asking you to set out how many stocks you'd like to create and then you will have to specialise them into one of the other classes.
+Then the program will cycle over serveral different actions you can choose.
+
+The four different types of stocks available are:
+
+BlueChip: Based on old companies that aren't going anywhere.
+
+Growth: Based on companies that are doing well right now and return a good profit.
+
+Speculative: Based on companies that are new and has unknown patterns but large potential. Also has an "excitement level" as this is a new stock that boosts it's gains depending on the level.
+
+Standard: Regular Stock with no special properties.
+
+There are also bonds that can be purchased, these are safe investments that increase steadily. 

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BondMarket
+comment1.params=
+comment1.target=BondMarket()
+comment2.params=amount
+comment2.target=void\ sellBonds(double)
+comment3.params=amount
+comment3.target=void\ invest(double)
+comment4.params=
+comment4.target=void\ cycle()
+comment5.params=
+comment5.target=boolean\ getOwned()
+comment6.params=
+comment6.target=double\ getCurrentPrice()
+numComments=7
